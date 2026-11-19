@@ -1,0 +1,4 @@
+<resources>
+    <string name="momentum_focus_service_name">Momentum focus protection</string>
+    <string name="momentum_focus_service_description">During a focus session, Momentum detects when a selected app opens and returns you to the Home screen. It uses the app’s package name on this device. You can turn this service off in Android Settings at any time.</string>
+</resources>

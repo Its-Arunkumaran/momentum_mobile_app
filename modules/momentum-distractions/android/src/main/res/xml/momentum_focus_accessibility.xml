@@ -1,0 +1,8 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:canRetrieveWindowContent="false"
+    android:canPerformGestures="false"
+    android:canRequestFilterKeyEvents="false"
+    android:isAccessibilityTool="false"
+    android:notificationTimeout="0"
+    android:description="@string/momentum_focus_service_description" />
